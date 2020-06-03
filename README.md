@@ -1,6 +1,6 @@
 ![visual CS](./src/assets/logo/visualCS.png)
 
-<div style="text-align: right"><b>an Open Source project</b></div>
+<div align="right"><b>an Open Source project</b></div>
 
 ### Introduction
 
