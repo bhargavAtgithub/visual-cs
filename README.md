@@ -1,4 +1,4 @@
-![visual CS](./src/assets/logo/visualCS.png)
+<img src="./src/assets/logo/visualCS.png" height="200px" align="center">
 
 <div align="right"><b>an Open Source project</b></div>
 
