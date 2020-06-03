@@ -1,4 +1,4 @@
-<img src="./src/assets/logo/visualCS.png" height="200px" align="center">
+<div align="center"><img src="./src/assets/logo/visualCS.png" height="200px"></img></div>
 
 <div align="right"><b>an Open Source project</b></div>
 
