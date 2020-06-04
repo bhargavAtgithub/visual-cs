@@ -11,3 +11,44 @@
 We will create the platform with React. And once the platform is ready, any programmer or developer can contribute.
 
 Any one who can code can contribute to the project. Since we all want everything to be clear, before one can start contributing,it is important to insert our name in the list of contributors, so we can keep track of every contributor.
+
+### Current Status:
+
+- Micro Components
+
+  - Custom Button
+  - Title
+  - Description
+  - Icon
+
+- Molecular Componets
+
+  - Card
+  - Navbar
+
+- Design
+  - Text
+    - Sizes
+      - small
+      - medium
+      - large
+      - larger
+  - Icon
+    - Sized
+      - small
+      - medium
+      - large
+      - larger
+  - Colors
+    - Salmon
+    - Aqua
+    - Gold
+    - Sea
+    - Sunset
+- Data
+
+  - Static Data
+
+- Pages
+  - HomePage
+  - FirstLoad

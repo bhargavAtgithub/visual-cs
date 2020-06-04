@@ -1,4 +1,27 @@
+@mixin background_color($color) {
+  background: linear-gradient(to top, $color 45%, transparent 0%);
+}
+
+.salmon {
+  @include background_color(#fa8072);
+}
+
+.gold {
+  @include background_color(#ffff00);
+}
+
+.aqua {
+  @include background_color(#b5e5cf);
+}
+
+.sunset {
+  @include background_color(#fc8e1f);
+}
+
+.sea {
+  @include background_color(#0071b6);
+}
+
 .custom-button {
-  font-weight: 600;
-  background: linear-gradient(to top, yellow 40%, transparent 45%);
+  margin: 10px;
 }
